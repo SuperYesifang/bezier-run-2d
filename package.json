@@ -1,0 +1,21 @@
+{
+  "name": "bezier-run-2d",
+  "version": "0.0.1",
+  "description": "一个2D贝塞尔曲线运行器。A 2D Bezier curve runner.",
+  "author": "Yesifang",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://yesifang.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SuperYesifang/bezier-run-2d.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "bezier",
+    "run",
+    "speed",
+    "2d"
+  ]
+}
